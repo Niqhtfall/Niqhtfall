@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Niqhtfall
-- 👀 I’m interested in learning:
+- 👀 I’m interested in:
 - - Solidify
   - Electron
   - React JS
   - Kubernetes
+  - Docker
+  - Next.js
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
