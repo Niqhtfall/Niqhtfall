@@ -1,35 +1,3 @@
-- 👋 Hi, I’m @Niqhtfall
-
-  I am constantly trying to decide on how my profile needs to be displayed - and I am not yet there.
-
-<!---
-Niqhtfall/Niqhtfall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## Programming Languages
 
-## Frontend Development
-
-## Backend Development
-
-## Mobile App Development
-
-## AI/ML
-
-## Database
-
-## Data Visualization
-
-## DevOps
-
-## Backend as a Service(BaaS)
-
-## Framework
-
-## Testing
-
-## Software
-
-## Game Engines
-
-## Other
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=50&color=F70000&multiline=true&repeat=false&width=435&height=300&lines=C%23;Javascript;Typescript;Python;SQL;Dart" alt="Typing SVG" /></a>
